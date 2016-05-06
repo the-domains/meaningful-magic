@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: What if you could actually wave a magic wand and give hope to someone who needs it most?
-datePublished: '2016-05-06T15:08:49.556Z'
-dateModified: '2016-05-06T15:08:12.367Z'
+datePublished: '2016-05-06T15:17:15.041Z'
+dateModified: '2016-05-06T15:16:48.222Z'
 title: What’s so “meaningful” about magic?
 author: []
+sourcePath: _posts/2016-05-06-whats-so-meaningful-about-magic.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-06-whats-so-meaningful-about-magic.md
+starred: true
 url: whats-so-meaningful-about-magic/index.html
 _type: Article
 
@@ -99,7 +99,7 @@ Now that sounds like an odd request! One of Rook's more popular effects involves
 
 ## Book an show or drop a line!
 
-Again, if you'd like more information, book an appointment, or to talk to us for any reason whatsoever, click on our [Contact][0] page or send an email to[rook@meaningfulmagic.org][1] and we'll get started!
+Again, if you'd like more information, book an appointment, or to talk to us for any reason whatsoever, click on our [Contact][0] page or send an email to [rook@meaningfulmagic.org][1] and we'll get started!
 
 [0]: http://meaningfulmagic.org/?page_id=22 "Contact"
 [1]: mailto:rook@meaningfulmagic.org
