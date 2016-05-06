@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Meaningful Magic]]></title>
+        <description><![CDATA[Meaningful Magic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 May 2016 15:08:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What’s so “meaningful” about magic?]]></title>
+            <description><![CDATA[<article><h1>What’s so “meaningful” about magic?</h1><h2>What’s the Catch?</h2><p>What if you could actually wave a magic wand and give hope to someone who needs it most?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28e2fe517ba10e019eb9ad83da2c47c95c893dcf.png"></article>]]></description>
+            <link>undefinedwhats-so-meaningful-about-magic/index.html</link>
+            <guid isPermaLink="false">04313dfa-b963-4159-84fe-1f657d5b5d34</guid>
+            <pubDate>Fri, 06 May 2016 15:08:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
