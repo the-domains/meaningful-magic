@@ -4,8 +4,15 @@
         <description><![CDATA[Meaningful Magic]]></description>
         <link>https://thegrid.ai/meaningful-magic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 22:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 22:23:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meaningful-magic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SHOWTIMES]]></title>
+            <description><![CDATA[<article><h1>SHOWTIMES</h1><p>Here is a listing of Rook’s recent and upcoming engagements. Many of these are private affairs solely for the people that the organizations for whom Rook is performing serve. However, the listings with times and addresses noted are open to the public. Drop on by and enjoy the magic!</p></article>]]></description>
+            <link>https://thegrid.ai/meaningful-magic/showtimes/index.html</link>
+            <guid isPermaLink="false">74b3918c-db87-41aa-8331-907da11f064f</guid>
+            <pubDate>Wed, 25 May 2016 22:23:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What’s so “meaningful” about magic?]]></title>
             <description><![CDATA[<article><h1>What’s so “meaningful” about magic?</h1><h2>What’s the Catch?</h2><p>What if you could actually wave a magic wand and give hope to someone who needs it most?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28e2fe517ba10e019eb9ad83da2c47c95c893dcf.png"></article>]]></description>
@@ -61,13 +68,6 @@
             <link>https://thegrid.ai/meaningful-magic/harry-the-dove-arrives-to-explore-our-sense-of-the-unexpecte/index.html</link>
             <guid isPermaLink="false">9e9824b5-59a2-435b-9a13-a9613afeaadb</guid>
             <pubDate>Fri, 13 May 2016 16:51:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SHOWTIMES]]></title>
-            <description><![CDATA[<article><h1>SHOWTIMES</h1><p>Here is a listing of Rook’s recent and upcoming engagements. Many of these are private affairs solely for the people that the organizations for whom Rook is performing serve. However, the listings with times and addresses noted are open to the public. Drop on by and enjoy the magic!</p></article>]]></description>
-            <link>https://thegrid.ai/meaningful-magic/showtimes/index.html</link>
-            <guid isPermaLink="false">74b3918c-db87-41aa-8331-907da11f064f</guid>
-            <pubDate>Fri, 06 May 2016 15:14:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
