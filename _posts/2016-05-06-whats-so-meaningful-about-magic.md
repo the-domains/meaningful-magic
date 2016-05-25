@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: What if you could actually wave a magic wand and give hope to someone who needs it most?
-datePublished: '2016-05-25T22:30:05.588Z'
-dateModified: '2016-05-25T22:27:28.340Z'
+datePublished: '2016-05-25T22:42:45.058Z'
+dateModified: '2016-05-25T22:42:36.569Z'
 title: What’s so “meaningful” about magic?
 author: []
 sourcePath: _posts/2016-05-06-whats-so-meaningful-about-magic.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: whats-so-meaningful-about-magic/index.html
 _type: Article
 
