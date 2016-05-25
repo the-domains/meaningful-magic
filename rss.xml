@@ -4,7 +4,7 @@
         <description><![CDATA[Meaningful Magic]]></description>
         <link>https://thegrid.ai/meaningful-magic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 22:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 22:57:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meaningful-magic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What’s so “meaningful” about magic?]]></title>
@@ -22,9 +22,30 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf3f96bd-8214-4187-94b3-12673e97a6e5.jpg">]]></description>
+            <link>https://thegrid.ai/meaningful-magic/even-a-small-amount-of-magic-can-provide-a-sense-of-wonder-a/index.html</link>
+            <guid isPermaLink="false">d1b0378c-4a46-4dc0-8d78-844c8e736c54</guid>
+            <pubDate>Wed, 25 May 2016 22:56:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa441408-f467-463b-b048-3c464264e84d.jpg">]]></description>
+            <link>https://thegrid.ai/meaningful-magic/making-a-connection-is-one-of-the-most-magical-things-we-can/index.html</link>
+            <guid isPermaLink="false">436f5ba5-1b62-49d1-a095-ca6c288c4263</guid>
+            <pubDate>Wed, 25 May 2016 22:56:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5208f156-bfd3-4ff2-b7b3-277a0f23dbdd.jpg">]]></description>
             <link>https://thegrid.ai/meaningful-magic/we-often-find-ourselves-bound-in-the-chains-of-our-own-makin/index.html</link>
             <guid isPermaLink="false">96969653-07fd-4985-b1d8-71882e04a729</guid>
+            <pubDate>Wed, 25 May 2016 22:56:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba4e0879-a8b9-4d82-8f6b-884862221426.jpg">]]></description>
+            <link>https://thegrid.ai/meaningful-magic/with-a-bit-of-flexibility-persistence-and-willingness-you/index.html</link>
+            <guid isPermaLink="false">8c2ca951-aed9-4213-a334-e88abd323b50</guid>
             <pubDate>Wed, 25 May 2016 22:56:46 GMT</pubDate>
         </item>
         <item>
@@ -54,27 +75,6 @@
             <link>https://thegrid.ai/meaningful-magic/sometimes-im-convinced-that-the-reason-that-they-like-the/index.html</link>
             <guid isPermaLink="false">2d2a2801-5cd8-4c90-8331-ca49424cb4c1</guid>
             <pubDate>Wed, 25 May 2016 22:06:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70233a1b-3e3a-4cb4-b1c9-34458e95b15a.jpg">]]></description>
-            <link>https://thegrid.ai/meaningful-magic/pyewackett-the-rabbit-makes-his-debut/index.html</link>
-            <guid isPermaLink="false">45e7ca13-9d69-45c6-ac91-75fed0539977</guid>
-            <pubDate>Fri, 13 May 2016 16:53:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d51ddb3d-bbf3-4e7f-8a3d-a8b9a6132564.jpg">]]></description>
-            <link>https://thegrid.ai/meaningful-magic/somehow-this-very-intuitive-audience-was-able-to-select-the/index.html</link>
-            <guid isPermaLink="false">c74b5fb3-e4f0-406a-ac17-0dd84b3a1d5c</guid>
-            <pubDate>Fri, 13 May 2016 16:53:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bafd544-d22b-4efa-b396-e250b0d627d5.jpg">]]></description>
-            <link>https://thegrid.ai/meaningful-magic/escaping-a-straitjacket-in-the-phoenix-summer-sun-is-not-alw/index.html</link>
-            <guid isPermaLink="false">4b8a12a5-d56b-4916-8175-d9f8bce933b6</guid>
-            <pubDate>Fri, 13 May 2016 16:53:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
