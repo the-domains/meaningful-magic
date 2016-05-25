@@ -4,7 +4,7 @@
         <description><![CDATA[Meaningful Magic]]></description>
         <link>https://thegrid.ai/meaningful-magic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 22:56:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 22:56:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meaningful-magic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What’s so “meaningful” about magic?]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/meaningful-magic/showtimes/index.html</link>
             <guid isPermaLink="false">74b3918c-db87-41aa-8331-907da11f064f</guid>
             <pubDate>Wed, 25 May 2016 22:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5208f156-bfd3-4ff2-b7b3-277a0f23dbdd.jpg">]]></description>
+            <link>https://thegrid.ai/meaningful-magic/we-often-find-ourselves-bound-in-the-chains-of-our-own-makin/index.html</link>
+            <guid isPermaLink="false">96969653-07fd-4985-b1d8-71882e04a729</guid>
+            <pubDate>Wed, 25 May 2016 22:56:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/meaningful-magic/escaping-a-straitjacket-in-the-phoenix-summer-sun-is-not-alw/index.html</link>
             <guid isPermaLink="false">4b8a12a5-d56b-4916-8175-d9f8bce933b6</guid>
             <pubDate>Fri, 13 May 2016 16:53:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d5e8eb7-cdfa-4c86-ac3c-b0019f12f7f8.jpg">]]></description>
-            <link>https://thegrid.ai/meaningful-magic/harry-the-dove-arrives-to-explore-our-sense-of-the-unexpecte/index.html</link>
-            <guid isPermaLink="false">9e9824b5-59a2-435b-9a13-a9613afeaadb</guid>
-            <pubDate>Fri, 13 May 2016 16:51:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
