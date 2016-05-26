@@ -4,7 +4,7 @@
         <description><![CDATA[Meaningful Magic]]></description>
         <link>https://thegrid.ai/meaningful-magic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 18:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 18:09:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meaningful-magic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What’s so “meaningful” about magic?]]></title>
@@ -19,6 +19,27 @@
             <link>https://thegrid.ai/meaningful-magic/showtimes/index.html</link>
             <guid isPermaLink="false">74b3918c-db87-41aa-8331-907da11f064f</guid>
             <pubDate>Wed, 25 May 2016 22:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf60b299-ca9b-4ca8-8ac5-44768890f588.jpg">]]></description>
+            <link>https://thegrid.ai/meaningful-magic/a-simple-rope-trick-can-teach-about-connections-and-communit/index.html</link>
+            <guid isPermaLink="false">d17e52a4-73ec-4f56-b0cc-a4c39449df83</guid>
+            <pubDate>Thu, 26 May 2016 18:08:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8723f00-84ba-4561-826f-ee5aedf77255.jpg">]]></description>
+            <link>https://thegrid.ai/meaningful-magic/a-child-assists-by-cutting-a-rope-to-illustrate-how-we-might/index.html</link>
+            <guid isPermaLink="false">3d93f111-3b46-4623-a3b1-e2b2181937f0</guid>
+            <pubDate>Thu, 26 May 2016 18:08:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e006ea31-ab99-405a-b8c1-9e7032eb8562.jpg">]]></description>
+            <link>https://thegrid.ai/meaningful-magic/children-and-their-teacher-are-waiting-to-see-what-happens-n/index.html</link>
+            <guid isPermaLink="false">2352d8c8-7c80-4aa5-9aaa-02580f6488cd</guid>
+            <pubDate>Thu, 26 May 2016 18:08:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -54,27 +75,6 @@
             <link>https://thegrid.ai/meaningful-magic/we-often-find-ourselves-bound-in-the-chains-of-our-own-makin/index.html</link>
             <guid isPermaLink="false">96969653-07fd-4985-b1d8-71882e04a729</guid>
             <pubDate>Wed, 25 May 2016 22:56:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba4e0879-a8b9-4d82-8f6b-884862221426.jpg">]]></description>
-            <link>https://thegrid.ai/meaningful-magic/with-a-bit-of-flexibility-persistence-and-willingness-you/index.html</link>
-            <guid isPermaLink="false">8c2ca951-aed9-4213-a334-e88abd323b50</guid>
-            <pubDate>Wed, 25 May 2016 22:56:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b3a062c-6a96-4a60-813b-ee0b84260d4c.jpg">]]></description>
-            <link>https://thegrid.ai/meaningful-magic/when-you-refuse-to-be-tethered-you-learn-to-fly/index.html</link>
-            <guid isPermaLink="false">ed1e0083-d28b-496a-8e5a-5984896d905f</guid>
-            <pubDate>Wed, 25 May 2016 22:56:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/025e75e5-cb2a-496b-93ed-4aa73f55175a.jpg">]]></description>
-            <link>https://thegrid.ai/meaningful-magic/it-is-critical-to-make-a-solid-connection-with-your-particip/index.html</link>
-            <guid isPermaLink="false">5386e10c-9e66-4f4d-bb20-c104cc91aad3</guid>
-            <pubDate>Wed, 25 May 2016 22:06:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
