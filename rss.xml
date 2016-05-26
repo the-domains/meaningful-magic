@@ -4,7 +4,7 @@
         <description><![CDATA[Meaningful Magic]]></description>
         <link>https://thegrid.ai/meaningful-magic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 18:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 18:09:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meaningful-magic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What’s so “meaningful” about magic?]]></title>
@@ -19,20 +19,6 @@
             <link>https://thegrid.ai/meaningful-magic/showtimes/index.html</link>
             <guid isPermaLink="false">74b3918c-db87-41aa-8331-907da11f064f</guid>
             <pubDate>Wed, 25 May 2016 22:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f221ea75-7bf9-4181-83ab-cc4ebbe31853.jpg">]]></description>
-            <link>https://thegrid.ai/meaningful-magic/rook-is-buckled-into-a-straitjacket-is-this-tight-enough/index.html</link>
-            <guid isPermaLink="false">97045010-a826-4818-bf50-571f45c4bc44</guid>
-            <pubDate>Thu, 26 May 2016 18:08:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/deff0555-2197-4f27-9b3e-58ad6c7e3383.jpg">]]></description>
-            <link>https://thegrid.ai/meaningful-magic/sometimes-the-things-were-told-by-those-we-trust-may-make-u/index.html</link>
-            <guid isPermaLink="false">e3082985-f738-42a3-8306-a0e969e7ebfd</guid>
-            <pubDate>Thu, 26 May 2016 18:08:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +61,20 @@
             <link>https://thegrid.ai/meaningful-magic/a-child-assists-by-cutting-a-rope-to-illustrate-how-we-might/index.html</link>
             <guid isPermaLink="false">3d93f111-3b46-4623-a3b1-e2b2181937f0</guid>
             <pubDate>Thu, 26 May 2016 18:08:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e006ea31-ab99-405a-b8c1-9e7032eb8562.jpg">]]></description>
+            <link>https://thegrid.ai/meaningful-magic/children-and-their-teacher-are-waiting-to-see-what-happens-n/index.html</link>
+            <guid isPermaLink="false">2352d8c8-7c80-4aa5-9aaa-02580f6488cd</guid>
+            <pubDate>Thu, 26 May 2016 18:08:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24fd19ff-fbd6-4621-9d72-40685949d206.jpg">]]></description>
+            <link>https://thegrid.ai/meaningful-magic/we-often-bring-into-the-world-the-kind-of-thing-we-expect/index.html</link>
+            <guid isPermaLink="false">8385b2bf-408b-4dc3-8965-46ba4868edd2</guid>
+            <pubDate>Thu, 26 May 2016 18:08:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
