@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: What if you could actually wave a magic wand and give hope to someone who needs it most?
-datePublished: '2016-05-25T22:42:45.058Z'
-dateModified: '2016-05-25T22:42:36.569Z'
+description: ''
+datePublished: '2016-05-26T19:05:37.547Z'
+dateModified: '2016-05-26T19:05:29.183Z'
 title: What’s so “meaningful” about magic?
 author: []
 sourcePath: _posts/2016-05-06-whats-so-meaningful-about-magic.md
@@ -21,6 +21,7 @@ _type: Article
 
 # What's so "meaningful" about magic?
 
+  
 What if you could actually wave a magic wand and give hope to someone who needs it most?
 
 Meaningful Magic Corporation is a 501(c)3 nonprofit organization headed by clinical psychologist and magician/escape artist Dr. Tom Virden (who performs as "Rook"). When asked about meaningful magic, he gives this elevator pitch:
