@@ -4,7 +4,7 @@
         <description><![CDATA[Meaningful Magic]]></description>
         <link>https://thegrid.ai/meaningful-magic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 18:55:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 18:55:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meaningful-magic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What’s so “meaningful” about magic?]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/meaningful-magic/showtimes/index.html</link>
             <guid isPermaLink="false">74b3918c-db87-41aa-8331-907da11f064f</guid>
             <pubDate>Wed, 25 May 2016 22:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Rook performs the Bamboo Torture at the Miss Foundation Kindness Run and Memorial Walk. </p>]]></description>
+            <link>https://thegrid.ai/meaningful-magic/rook-performs-the-bamboo-torture-at-the-miss-foundation-kind/index.html</link>
+            <guid isPermaLink="false">cf714ba0-f0b1-4697-ac56-5ced3f5d57ef</guid>
+            <pubDate>Fri, 27 May 2016 18:55:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/meaningful-magic/perhaps-it-is-possible-to-help-someone-by-waving-a-magic-w/index.html</link>
             <guid isPermaLink="false">316b0dfb-4a95-4f6c-a765-330fed317b77</guid>
             <pubDate>Fri, 27 May 2016 18:22:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c061230-bc01-4310-b21a-99c3fb6fd487.jpg">]]></description>
-            <link>https://thegrid.ai/meaningful-magic/pay-no-attention-to-that-magician-behind-the-curtain/index.html</link>
-            <guid isPermaLink="false">89f0c364-6e4e-4a7b-be19-e0a09f58e863</guid>
-            <pubDate>Thu, 26 May 2016 18:08:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
