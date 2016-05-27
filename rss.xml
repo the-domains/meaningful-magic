@@ -4,7 +4,7 @@
         <description><![CDATA[Meaningful Magic]]></description>
         <link>https://thegrid.ai/meaningful-magic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 18:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 18:55:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meaningful-magic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What’s so “meaningful” about magic?]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/meaningful-magic/showtimes/index.html</link>
             <guid isPermaLink="false">74b3918c-db87-41aa-8331-907da11f064f</guid>
             <pubDate>Wed, 25 May 2016 22:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p> It was indeed a pleasure spending the morning with approximately 250 junior high school students at Imagine Avondale! In this effect, Rook expresses how making hard decisions can leave us stronger while passing a powersaw safely though the math tutor.</p>]]></description>
+            <link>https://thegrid.ai/meaningful-magic/it-was-indeed-a-pleasure-spending-the-morning-with-approxim/index.html</link>
+            <guid isPermaLink="false">0087f2c7-7c47-4813-bd97-60cd46de26f1</guid>
+            <pubDate>Fri, 27 May 2016 18:55:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1feec56d-f5fe-496d-aff1-7a121defb446.jpg">]]></description>
             <link>https://thegrid.ai/meaningful-magic/superheroes-and-super-heroic-children-look-on-as-rook-escape/index.html</link>
             <guid isPermaLink="false">74b36d6f-f418-4d9f-97ba-41e842334ae2</guid>
-            <pubDate>Thu, 26 May 2016 18:08:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f876b781-ce67-4d11-b3d5-4c11d714c99c.jpg">]]></description>
-            <link>https://thegrid.ai/meaningful-magic/the-phoenix-coyotes-howler-closes-his-eyes-as-rook-struggle/index.html</link>
-            <guid isPermaLink="false">46a4e1c0-6ca1-4c01-9ac4-9989431c8d1a</guid>
             <pubDate>Thu, 26 May 2016 18:08:19 GMT</pubDate>
         </item>
     </channel>
