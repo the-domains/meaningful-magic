@@ -4,7 +4,7 @@
         <description><![CDATA[Meaningful Magic]]></description>
         <link>https://thegrid.ai/meaningful-magic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 19:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 18:22:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meaningful-magic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What’s so “meaningful” about magic?]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/meaningful-magic/showtimes/index.html</link>
             <guid isPermaLink="false">74b3918c-db87-41aa-8331-907da11f064f</guid>
             <pubDate>Wed, 25 May 2016 22:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Perhaps it *is* possible to help someone by waving a magic wand!</p>]]></description>
+            <link>https://thegrid.ai/meaningful-magic/perhaps-it-is-possible-to-help-someone-by-waving-a-magic-w/index.html</link>
+            <guid isPermaLink="false">316b0dfb-4a95-4f6c-a765-330fed317b77</guid>
+            <pubDate>Fri, 27 May 2016 18:22:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/meaningful-magic/the-phoenix-coyotes-howler-closes-his-eyes-as-rook-struggle/index.html</link>
             <guid isPermaLink="false">46a4e1c0-6ca1-4c01-9ac4-9989431c8d1a</guid>
             <pubDate>Thu, 26 May 2016 18:08:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdd331e1-90e5-4d3e-af0c-6f54c0a682b8.jpg">]]></description>
-            <link>https://thegrid.ai/meaningful-magic/rook-performs-the-linking-ropes-at-the-2014-hopewalk/index.html</link>
-            <guid isPermaLink="false">5b2a318e-fd14-4a7d-916e-dca5a526791f</guid>
-            <pubDate>Thu, 26 May 2016 18:08:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
