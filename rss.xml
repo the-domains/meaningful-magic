@@ -4,7 +4,7 @@
         <description><![CDATA[Meaningful Magic]]></description>
         <link>https://thegrid.ai/meaningful-magic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 18:55:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 18:55:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meaningful-magic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What’s so “meaningful” about magic?]]></title>
@@ -19,6 +19,20 @@
             <link>https://thegrid.ai/meaningful-magic/showtimes/index.html</link>
             <guid isPermaLink="false">74b3918c-db87-41aa-8331-907da11f064f</guid>
             <pubDate>Wed, 25 May 2016 22:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Rook performs "AutoMagic," his variation on the vanishing bandanna routine at the West Valley Senior Center.</p>]]></description>
+            <link>https://thegrid.ai/meaningful-magic/rook-performs-automagic-his-variation-on-the-vanishing-ba/index.html</link>
+            <guid isPermaLink="false">42576382-a5ee-461a-ad3b-7f8a2a897658</guid>
+            <pubDate>Fri, 27 May 2016 18:55:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Rook Performs a straitjacket escape at the MISS Foundation Fundraiser. </p>]]></description>
+            <link>https://thegrid.ai/meaningful-magic/rook-performs-a-straitjacket-escape-at-the-miss-foundation-f/index.html</link>
+            <guid isPermaLink="false">86835b42-7787-43e2-b63a-522f20da9b4f</guid>
+            <pubDate>Fri, 27 May 2016 18:55:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -60,20 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c061230-bc01-4310-b21a-99c3fb6fd487.jpg">]]></description>
             <link>https://thegrid.ai/meaningful-magic/pay-no-attention-to-that-magician-behind-the-curtain/index.html</link>
             <guid isPermaLink="false">89f0c364-6e4e-4a7b-be19-e0a09f58e863</guid>
-            <pubDate>Thu, 26 May 2016 18:08:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c7b0ad0-25f1-4f27-83ce-266876df7f96.jpg">]]></description>
-            <link>https://thegrid.ai/meaningful-magic/with-a-bit-of-flexibility-note-the-hand-there-are-no-situ/index.html</link>
-            <guid isPermaLink="false">04a87346-a0ff-4ab8-8178-7269da24f736</guid>
-            <pubDate>Thu, 26 May 2016 18:08:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fdb7e3e-8ea4-459d-b4e0-a88ef797f498.jpg">]]></description>
-            <link>https://thegrid.ai/meaningful-magic/a-simple-moment-of-astonishment-can-open-entire-worlds/index.html</link>
-            <guid isPermaLink="false">5f7b4ea2-9136-421d-8474-66b05a5bcb61</guid>
             <pubDate>Thu, 26 May 2016 18:08:19 GMT</pubDate>
         </item>
     </channel>
