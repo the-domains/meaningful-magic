@@ -4,7 +4,7 @@
         <description><![CDATA[Meaningful Magic]]></description>
         <link>https://thegrid.ai/meaningful-magic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 18:55:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 18:55:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meaningful-magic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What’s so “meaningful” about magic?]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/meaningful-magic/showtimes/index.html</link>
             <guid isPermaLink="false">74b3918c-db87-41aa-8331-907da11f064f</guid>
             <pubDate>Wed, 25 May 2016 22:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>While passing through Flagstaff, AZ, Rook had the opportunity to try a new escape upon which he was working. </p>]]></description>
+            <link>https://thegrid.ai/meaningful-magic/while-passing-through-flagstaff-az-rook-had-the-opportunit/index.html</link>
+            <guid isPermaLink="false">f804ce91-0568-49b9-a3d8-aca2c1e8040a</guid>
+            <pubDate>Fri, 27 May 2016 18:55:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c71e02b1-f3dd-46da-87cc-650bfd44488f.jpg">]]></description>
             <link>https://thegrid.ai/meaningful-magic/hope-s-pocus-the-magic-rabbit-makes-an-unexpected-appeara/index.html</link>
             <guid isPermaLink="false">75be49a0-06d6-44bc-8f19-d65378968c38</guid>
-            <pubDate>Thu, 26 May 2016 18:08:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1feec56d-f5fe-496d-aff1-7a121defb446.jpg">]]></description>
-            <link>https://thegrid.ai/meaningful-magic/superheroes-and-super-heroic-children-look-on-as-rook-escape/index.html</link>
-            <guid isPermaLink="false">74b36d6f-f418-4d9f-97ba-41e842334ae2</guid>
             <pubDate>Thu, 26 May 2016 18:08:19 GMT</pubDate>
         </item>
     </channel>
