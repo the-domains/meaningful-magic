@@ -4,7 +4,7 @@
         <description><![CDATA[Meaningful Magic]]></description>
         <link>https://thegrid.ai/meaningful-magic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 18:55:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 18:55:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meaningful-magic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What’s so “meaningful” about magic?]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/meaningful-magic/showtimes/index.html</link>
             <guid isPermaLink="false">74b3918c-db87-41aa-8331-907da11f064f</guid>
             <pubDate>Wed, 25 May 2016 22:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>On a cool day, an ordinary car can become dangerously hot. </p>]]></description>
+            <link>https://thegrid.ai/meaningful-magic/on-a-cool-day-an-ordinary-car-can-become-dangerously-hot/index.html</link>
+            <guid isPermaLink="false">7c8658f7-d51d-4cfe-90e9-e2da37447fec</guid>
+            <pubDate>Fri, 27 May 2016 18:55:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9b99ff6-db36-440a-8ae8-14cd0f9477a8.jpg">]]></description>
             <link>https://thegrid.ai/meaningful-magic/black-rocks-turn-into-diamonds-as-we-recognize-that-we-are-t/index.html</link>
             <guid isPermaLink="false">4c7949e6-e2ef-4d1d-ac59-b3c04b165aa8</guid>
-            <pubDate>Thu, 26 May 2016 18:08:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c71e02b1-f3dd-46da-87cc-650bfd44488f.jpg">]]></description>
-            <link>https://thegrid.ai/meaningful-magic/hope-s-pocus-the-magic-rabbit-makes-an-unexpected-appeara/index.html</link>
-            <guid isPermaLink="false">75be49a0-06d6-44bc-8f19-d65378968c38</guid>
             <pubDate>Thu, 26 May 2016 18:08:19 GMT</pubDate>
         </item>
     </channel>
