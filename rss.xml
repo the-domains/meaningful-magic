@@ -4,7 +4,7 @@
         <description><![CDATA[Meaningful Magic]]></description>
         <link>https://thegrid.ai/meaningful-magic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 18:55:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 18:56:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meaningful-magic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What’s so “meaningful” about magic?]]></title>
@@ -19,6 +19,20 @@
             <link>https://thegrid.ai/meaningful-magic/showtimes/index.html</link>
             <guid isPermaLink="false">74b3918c-db87-41aa-8331-907da11f064f</guid>
             <pubDate>Wed, 25 May 2016 22:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Are there any inescapable situations, or is that merely an illusion? </p>]]></description>
+            <link>https://thegrid.ai/meaningful-magic/are-there-any-inescapable-situations-or-is-that-merely-an-i/index.html</link>
+            <guid isPermaLink="false">60f10038-bf2f-411d-bcd6-592bb7b21b9a</guid>
+            <pubDate>Fri, 27 May 2016 18:55:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Ever feel like you're chained to something you can't quite control? </p>]]></description>
+            <link>https://thegrid.ai/meaningful-magic/ever-feel-like-youre-chained-to-something-you-cant-quite-c/index.html</link>
+            <guid isPermaLink="false">1283c7f7-2ed8-45ef-94e5-fdc8cd20d559</guid>
+            <pubDate>Fri, 27 May 2016 18:55:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/meaningful-magic/here-are-some-highlights-from-a-brief-performance-at-the-mcc/index.html</link>
             <guid isPermaLink="false">e2dfef94-1344-466b-a8fc-b3c957302ba5</guid>
             <pubDate>Fri, 27 May 2016 18:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>On a cool day, an ordinary car can become dangerously hot. </p>]]></description>
-            <link>https://thegrid.ai/meaningful-magic/on-a-cool-day-an-ordinary-car-can-become-dangerously-hot/index.html</link>
-            <guid isPermaLink="false">7c8658f7-d51d-4cfe-90e9-e2da37447fec</guid>
-            <pubDate>Fri, 27 May 2016 18:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>While passing through Flagstaff, AZ, Rook had the opportunity to try a new escape upon which he was working. </p>]]></description>
-            <link>https://thegrid.ai/meaningful-magic/while-passing-through-flagstaff-az-rook-had-the-opportunit/index.html</link>
-            <guid isPermaLink="false">f804ce91-0568-49b9-a3d8-aca2c1e8040a</guid>
-            <pubDate>Fri, 27 May 2016 18:55:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
