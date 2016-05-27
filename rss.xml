@@ -4,7 +4,7 @@
         <description><![CDATA[Meaningful Magic]]></description>
         <link>https://thegrid.ai/meaningful-magic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 18:56:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 19:01:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meaningful-magic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What’s so “meaningful” about magic?]]></title>
@@ -19,6 +19,20 @@
             <link>https://thegrid.ai/meaningful-magic/showtimes/index.html</link>
             <guid isPermaLink="false">74b3918c-db87-41aa-8331-907da11f064f</guid>
             <pubDate>Wed, 25 May 2016 22:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70233a1b-3e3a-4cb4-b1c9-34458e95b15a.jpg">]]></description>
+            <link>https://thegrid.ai/meaningful-magic/pyewackett-the-rabbit-makes-his-debut/index.html</link>
+            <guid isPermaLink="false">45e7ca13-9d69-45c6-ac91-75fed0539977</guid>
+            <pubDate>Fri, 27 May 2016 19:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Are there any inescapable situations, or is that merely an illusion? </p>]]></description>
+            <link>https://thegrid.ai/meaningful-magic/are-there-any-inescapable-situations-or-is-that-merely-an-i/index.html</link>
+            <guid isPermaLink="false">60f10038-bf2f-411d-bcd6-592bb7b21b9a</guid>
+            <pubDate>Fri, 27 May 2016 18:55:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -60,20 +74,6 @@
             <description><![CDATA[<p>Rook Performs a straitjacket escape at the MISS Foundation Fundraiser. </p>]]></description>
             <link>https://thegrid.ai/meaningful-magic/rook-performs-a-straitjacket-escape-at-the-miss-foundation-f/index.html</link>
             <guid isPermaLink="false">86835b42-7787-43e2-b63a-522f20da9b4f</guid>
-            <pubDate>Fri, 27 May 2016 18:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Here are some highlights from a brief performance at the McCormick Stillman Railroad Park on Mother's Day 2016. </p>]]></description>
-            <link>https://thegrid.ai/meaningful-magic/here-are-some-highlights-from-a-brief-performance-at-the-mcc/index.html</link>
-            <guid isPermaLink="false">e2dfef94-1344-466b-a8fc-b3c957302ba5</guid>
-            <pubDate>Fri, 27 May 2016 18:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>On a cool day, an ordinary car can become dangerously hot. </p>]]></description>
-            <link>https://thegrid.ai/meaningful-magic/on-a-cool-day-an-ordinary-car-can-become-dangerously-hot/index.html</link>
-            <guid isPermaLink="false">7c8658f7-d51d-4cfe-90e9-e2da37447fec</guid>
             <pubDate>Fri, 27 May 2016 18:55:09 GMT</pubDate>
         </item>
     </channel>
