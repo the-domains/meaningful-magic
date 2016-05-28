@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-26T19:12:24.551Z'
-dateModified: '2016-05-26T19:12:23.901Z'
+datePublished: '2016-05-28T01:11:27.340Z'
+dateModified: '2016-05-28T01:11:26.847Z'
 title: What’s so “meaningful” about magic?
 author: []
 sourcePath: _posts/2016-05-06-whats-so-meaningful-about-magic.md
@@ -20,8 +20,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ac16dca-e341-4f18-89ff-1e797c0cda09.png)
 
 # What's so "meaningful" about magic?
-
-https://www.youtube.com/watch?v=UgUm1\_bDCOk
 
 What if you could actually wave a magic wand and give hope to someone who needs it most?
 
