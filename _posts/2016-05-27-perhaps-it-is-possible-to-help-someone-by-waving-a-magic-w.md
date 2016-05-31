@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Perhaps it *is* possible to help someone by waving a magic wand!'
-datePublished: '2016-05-31T15:51:16.662Z'
-dateModified: '2016-05-31T15:51:16.432Z'
+datePublished: '2016-05-31T15:52:09.880Z'
+dateModified: '2016-05-31T15:52:09.473Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-27-perhaps-it-is-possible-to-help-someone-by-waving-a-magic-w.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: perhaps-it-is-possible-to-help-someone-by-waving-a-magic-w/index.html
 _type: Article
 
