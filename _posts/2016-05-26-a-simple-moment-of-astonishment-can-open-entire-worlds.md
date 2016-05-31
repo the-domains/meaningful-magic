@@ -1,18 +1,18 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: A simple moment of astonishment can open entire worlds.
-datePublished: '2016-05-26T18:08:19.286Z'
-dateModified: '2016-05-26T17:58:36.790Z'
-title: ''
-author: []
-authors: []
-publisher: null
-starred: false
+datePublished: '2016-05-31T21:40:10.885Z'
 sourcePath: _posts/2016-05-26-a-simple-moment-of-astonishment-can-open-entire-worlds.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-05-31T21:39:48.420Z'
+title: ''
+publisher: null
+description: A simple moment of astonishment can open entire worlds.
+inLanguage: null
+inNav: false
+starred: false
 url: a-simple-moment-of-astonishment-can-open-entire-worlds/index.html
 _type: Article
 
