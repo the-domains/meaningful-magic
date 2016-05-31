@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Here is a listing of Rook’s recent and upcoming engagements. Many of these are private affairs solely for the people that the organizations for whom Rook is performing serve. However, the listings with times and addresses noted are open to the public. Drop on by and enjoy the magic!'
-datePublished: '2016-05-25T22:23:07.005Z'
-dateModified: '2016-05-25T22:23:05.993Z'
+datePublished: '2016-05-31T15:51:20.824Z'
+dateModified: '2016-05-31T15:51:20.416Z'
 title: SHOWTIMES
 author: []
 sourcePath: _posts/2016-05-06-showtimes.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: showtimes/index.html
 _type: Article
 
