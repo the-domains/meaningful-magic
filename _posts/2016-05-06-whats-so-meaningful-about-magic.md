@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-31T15:53:49.668Z'
-dateModified: '2016-05-31T15:53:49.237Z'
+datePublished: '2016-05-31T15:53:51.800Z'
+dateModified: '2016-05-31T15:53:51.540Z'
 title: What’s so “meaningful” about magic?
 author: []
 sourcePath: _posts/2016-05-06-whats-so-meaningful-about-magic.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: whats-so-meaningful-about-magic/index.html
 _type: Article
 
