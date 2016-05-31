@@ -4,14 +4,14 @@
         <description><![CDATA[Meaningful Magic]]></description>
         <link>https://thegrid.ai/meaningful-magic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 19:01:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 15:51:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meaningful-magic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What’s so “meaningful” about magic?]]></title>
             <description><![CDATA[<article><h1>What’s so “meaningful” about magic?</h1><h2>What’s the Catch?</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28e2fe517ba10e019eb9ad83da2c47c95c893dcf.png"></article>]]></description>
             <link>https://thegrid.ai/meaningful-magic/whats-so-meaningful-about-magic/index.html</link>
             <guid isPermaLink="false">04313dfa-b963-4159-84fe-1f657d5b5d34</guid>
-            <pubDate>Thu, 26 May 2016 19:12:24 GMT</pubDate>
+            <pubDate>Sat, 28 May 2016 01:11:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SHOWTIMES]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/meaningful-magic/showtimes/index.html</link>
             <guid isPermaLink="false">74b3918c-db87-41aa-8331-907da11f064f</guid>
             <pubDate>Wed, 25 May 2016 22:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Perhaps it *is* possible to help someone by waving a magic wand!</p>]]></description>
+            <link>https://thegrid.ai/meaningful-magic/perhaps-it-is-possible-to-help-someone-by-waving-a-magic-w/index.html</link>
+            <guid isPermaLink="false">316b0dfb-4a95-4f6c-a765-330fed317b77</guid>
+            <pubDate>Tue, 31 May 2016 15:51:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<p>Rook performs "AutoMagic," his variation on the vanishing bandanna routine at the West Valley Senior Center.</p>]]></description>
             <link>https://thegrid.ai/meaningful-magic/rook-performs-automagic-his-variation-on-the-vanishing-ba/index.html</link>
             <guid isPermaLink="false">42576382-a5ee-461a-ad3b-7f8a2a897658</guid>
-            <pubDate>Fri, 27 May 2016 18:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Rook Performs a straitjacket escape at the MISS Foundation Fundraiser. </p>]]></description>
-            <link>https://thegrid.ai/meaningful-magic/rook-performs-a-straitjacket-escape-at-the-miss-foundation-f/index.html</link>
-            <guid isPermaLink="false">86835b42-7787-43e2-b63a-522f20da9b4f</guid>
             <pubDate>Fri, 27 May 2016 18:55:09 GMT</pubDate>
         </item>
     </channel>
