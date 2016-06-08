@@ -4,19 +4,18 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Somehow this very intuitive audience was able to select the face that matched a hidden picture!'
-datePublished: '2016-05-13T16:53:56.992Z'
-dateModified: '2016-05-13T16:52:54.357Z'
+description: >-
+  Somehow this very intuitive audience was able to select the face that matched
+  a hidden picture!
+datePublished: '2016-06-08T19:23:31.725Z'
+dateModified: '2016-06-08T19:23:31.469Z'
 title: ''
 author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
-sourcePath: _posts/2016-05-13-somehow-this-very-intuitive-audience-was-able-to-select-the.md
+publisher: null
+sourcePath: >-
+  _posts/2016-05-13-somehow-this-very-intuitive-audience-was-able-to-select-the.md
+starred: true
 url: somehow-this-very-intuitive-audience-was-able-to-select-the/index.html
 _type: Article
 
