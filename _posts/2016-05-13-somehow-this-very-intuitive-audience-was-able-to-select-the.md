@@ -7,15 +7,15 @@ keywords: []
 description: >-
   Somehow this very intuitive audience was able to select the face that matched
   a hidden picture!
-datePublished: '2016-06-08T19:23:31.725Z'
-dateModified: '2016-06-08T19:23:31.469Z'
+datePublished: '2016-06-08T19:24:22.046Z'
+dateModified: '2016-06-08T19:24:21.782Z'
 title: ''
 author: []
 authors: []
 publisher: null
 sourcePath: >-
   _posts/2016-05-13-somehow-this-very-intuitive-audience-was-able-to-select-the.md
-starred: true
+starred: false
 url: somehow-this-very-intuitive-audience-was-able-to-select-the/index.html
 _type: Article
 
