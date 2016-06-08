@@ -9,8 +9,8 @@ description: >-
   private affairs solely for the people that the organizations for whom Rook is
   performing serve. However, the listings with times and addresses noted are
   open to the public. Drop on by and enjoy the magic!
-datePublished: '2016-06-08T19:23:29.141Z'
-dateModified: '2016-06-08T19:23:28.535Z'
+datePublished: '2016-06-08T20:57:39.246Z'
+dateModified: '2016-06-08T20:57:27.664Z'
 title: SHOWTIMES
 author: []
 sourcePath: _posts/2016-05-06-showtimes.md
@@ -30,8 +30,10 @@ Here is a listing of Rook's recent and upcoming engagements. Many of these are p
 **June 15, 2016**  
 **[Valley West Senior Center/YWCA][0]**
 
-Rook is once again thrilled to join in the magic at this marvelous place that provides companionship, food, and recreation to Glendale's seniors!  
-**February 26, 2016**  
+Rook is once again thrilled to join in the magic at this marvelous place that provides companionship, food, and recreation to Glendale's seniors!
+
+**February 26, 2016**
+
 _**[Glendale Community Center][1]**_
 
 This program offers food, socialization, and meaning to our Glendale Seniors. What a wonderful place to bring a bit of magic!
