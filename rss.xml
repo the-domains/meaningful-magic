@@ -4,7 +4,7 @@
         <description><![CDATA[Meaningful Magic]]></description>
         <link>https://thegrid.ai/meaningful-magic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 08:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2016 08:08:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meaningful-magic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SHOWTIMES]]></title>
@@ -33,6 +33,13 @@
             <link>https://thegrid.ai/meaningful-magic/47acc849-66c7-4188-af29-bc31a6efe960/index.html</link>
             <guid isPermaLink="false">47acc849-66c7-4188-af29-bc31a6efe960</guid>
             <pubDate>Sun, 19 Jun 2016 08:07:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c273eb86-bc3f-46f8-b7d1-b35d4edbe8d9.jpg">]]></description>
+            <link>https://thegrid.ai/meaningful-magic/e186a421-6f03-4616-a0cb-abbdc22bd8a8/index.html</link>
+            <guid isPermaLink="false">e186a421-6f03-4616-a0cb-abbdc22bd8a8</guid>
+            <pubDate>Sun, 19 Jun 2016 08:07:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/BpHKf6sPIyo</link>
             <guid isPermaLink="false">c0bee3c1-ff05-4a35-ac3e-c26cf1d71497</guid>
             <pubDate>Sun, 19 Jun 2016 08:03:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Relationships and Ropes]]></title>
-            <description><![CDATA[<article><h1>Relationships and Ropes</h1><p>Sometimes, when you're in a relationship, it always seems unequal. While it is tempting to cut the other person down to size, such an approach rarely works. Rook illustrates this and the magic of relationship with ropes. Meaningful Magic provides magic shows free of charge on site for organizations that serve the underprivileged or at risk.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/891680e50355c024407ff690de41fe6d/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FUWYZ2Iy57oM%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/UWYZ2Iy57oM</link>
-            <guid isPermaLink="false">f2ddd381-f434-49e8-8002-482cae0e5a99</guid>
-            <pubDate>Sun, 19 Jun 2016 08:03:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
